@@ -1,6 +1,7 @@
 {
-  "Nav": {
-    "shop": "Shop"
+    "Nav": {
+    "shop": "Shop",
+    "orders": "Orders"
   },
   "Home": {
     "title": "New arrivals",
